@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "New Blog"
+subtitle:   "based on Jekyll"
+date:       2016-12-13 15:00:00
+author:     "Luís Duarte"
+---
+
+<p>Hello everyone,</p>
+
+<p>I want to let you know that i've updated my personal website/blog to a Jekyll-based solution, since Django was becoming unmaintanable for me.</p>
+
+<p>Hope you enjoy it. Please leave any comment you may have below.</p>
