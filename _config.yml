@@ -11,6 +11,8 @@ github_username:  driverpt
 #facebook_username:  driver.pt
 email_username:  lduarte AT luisduarte DOT net
 
+future: true
+
 disqus:
   shortname: chroniclesofasoftwareengineer
 
@@ -25,7 +27,7 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
