@@ -6,7 +6,12 @@ date:       2020-06-02 10:00:00
 author:     "Luís Duarte"
 ---
 
-In the past 4 years, i’ve been working on several different Startups on every product stage and i managed to form an opinion on how to quickly build an MVP.
+# Preamble
+This article assumes that you're a Technical person like me. And shows you my view from a Tech Lead perspective of a Software Product/MVP.
+
+# Main Article
+
+In the past 4 years, i’ve been working on several different Startups on every product stage and i managed to form an opinion on how to quickly build an MVP (Minimum Viable Product).
 
 Before building a Product MVP there’s one thing to have in consideration:
 
