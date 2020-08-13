@@ -44,9 +44,10 @@ layout: default
 
             </div>
         </div>
-        {% if site.disqus.shortname %}
-            {% include disqus_comments.html %}
-        {% endif %}
-        <hr>
+	<div class="row">
+           {% if site.disqus.shortname %}
+               {% include disqus_comments.html %}
+           {% endif %}
+        </div>
     </div>
 </article>
