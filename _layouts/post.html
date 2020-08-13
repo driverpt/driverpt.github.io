@@ -44,10 +44,12 @@ layout: default
 
             </div>
         </div>
-	<div class="row">
-           {% if site.disqus.shortname %}
-               {% include disqus_comments.html %}
-           {% endif %}
+	<div class="row spacing-top-row">
+	   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+             {% if site.disqus.shortname %}
+                 {% include disqus_comments.html %}
+             {% endif %}
+	   </div>
         </div>
     </div>
 </article>
