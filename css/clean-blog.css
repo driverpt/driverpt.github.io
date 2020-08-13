@@ -409,3 +409,7 @@ body {
 .round-avatar {
   border-radius: 50%;
 }
+
+.spacing-top-row {
+  margin-top: 16px;
+}
