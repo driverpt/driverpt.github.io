@@ -40,7 +40,7 @@ Lesson #2: Keep your feet on the Ground, don’t start flying until you have an 
 ```
 
 Next Criteria would be to carefully analyze which Frameworks are you going to use. For example, I’ve developed 2 MVP’s using Kotlin + Spring Boot (JVM). Spring Ecosystem brings a whole lot of value out-of-the-box, you can very easily create an REST API + ORM (Hibernate).
-As a side note, there’s been a lot of buzz regarding ORM’s, especially Hibernate. Best advice i can give you about that is Don’t try to develop your own Framework, **YOU WANT TO FOCUS ON YOUR BUSINESS LOGIC**. Remember, The Business Case is what will bring you money, not Tech Stack, so again. **DON’T BE RELIGIOUS**.
+As a side note, there’s been a lot of buzz regarding ORM’s, especially Hibernate. Best advice i can give you about that is: Don’t try to develop your own Framework, **YOU WANT TO FOCUS ON YOUR BUSINESS LOGIC**. Remember, The Business Case is what will bring you money, not Tech Stack, so again. **DON’T BE RELIGIOUS**.
 
 ```
 Lesson #3: Focus on your Business Logic, not technicalities.
@@ -88,12 +88,12 @@ Google, Amazon, Digital Ocean, Openshift, Azure. Personally, I prefer Google's s
 Every feature that you develop, ensure that you have a Feature Flag for the end-user, you want to do phased release for your features, like a Beta Program. Use that “small circle” of customers that you have to test your new features before making them GA (General Availability). You don't want any "Oops..." moments on this, when you're still in very early stages, the worst thing you can have is a customer to Rage Quit.
 
 ## Iterating your product
-I recommend that you publish your app on AppSumo[https://appsumo.com/] and offer a couple of Voucher discounts to get you started. For now you just need to get your product out there, even if you give 80% off discounts, you need to start iterating on your product and improving it. Without users using it, you can’t collect data, and without data, you can’t improve.
+I recommend that you publish your app on [AppSumo](https://appsumo.com/) and offer a couple of Voucher discounts to get you started. For now you just need to get your product out there, even if you give 80% off discounts, you need to start iterating on your product and improving it. Without users using it, you can’t collect data, and without data, you can’t improve.
 
 ## Security
 This is the most important part for me. Your company having Customer Data is almost the same as a Bank having Customer Money. The Customer trusts the Bank to hold their money safely. The moment the Bank starts to have suspicious activity (Bad Press, in the Regulators, by the Government, etc...), Customer will most likely no longer trust the Bank and will withdraw all money from there, ending the relationship. Same thing will happen with Customer Data.
 
-Couple of years ago I gave a talk[https://www.youtube.com/watch?v=rynJzYnqytQ] about HashiCorp’s Vault product, which is basically a Secrets Management Service. I highly recommend that you have a Secret Management Tool for your Services (Most providers offer a Managed Version of the Service, at a cost, of course).
+Couple of years ago I gave a [talk](https://www.youtube.com/watch?v=rynJzYnqytQ) about HashiCorp’s Vault product, which is basically a Secrets Management Service. I highly recommend that you have a Secret Management Tool for your Services (Most providers offer a Managed Version of the Service, at a cost, of course).
 
 Here’s a simple use case: An employee leaves the company and you’ll have to renew all of the Secrets, update all configurations and redeploy all your services. With Vault you can do this with a simple command, no need for redeployment (eventually a restart so it fetches new tokens).
 
