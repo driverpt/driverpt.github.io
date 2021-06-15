@@ -19,6 +19,7 @@ The first fallacy starts when employers don't know what they are looking for, wh
 Why am I explaining this? And this is for most HR people that do screenings. An Engineer telling you that doesn't know, for example, Rust Language, is not necessarily a bad hire. If he knows Computer Science in general, he will quickly catch up and be productive in a couple of months and deliver a lot of value for your company. 
 
 > How to find out which type of professional you're interviewing?
+
 > Simple, do a proper tech screening. 
 
 Don't get me wrong, but most of the recruitment processes I see out there, use HackerRank Tech Challenges for this part. It's not necessarily bad, but you need to complement this with more stuff. HackerRank will tell you if the candidate knows how to code (He's a Developer). If after this you will most likely do a Tech Challenge Review and ask the candidate why he has taken the decisions he took, and after that, he's hired.
