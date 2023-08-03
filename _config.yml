@@ -18,7 +18,7 @@ disqus:
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: "UA-37165501-1"
+google_tracking_id: "G-N61R0VDZZD"
 
 # Build settings
 markdown: kramdown
